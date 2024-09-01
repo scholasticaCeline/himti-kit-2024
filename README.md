@@ -1,4 +1,4 @@
-# himti-kit-data-structures
+# Himti Kit - Data Structures
 
 Haloo B28 semuanyaaa
 
