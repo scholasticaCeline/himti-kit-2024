@@ -1,9 +1,14 @@
 # Himti Kit
 
-Haloo B28 semuanyaaa
+Haloo B28 semuanyaaa (atau siapapun yang datang ke sini)
 
-Di repo ini akan berisi semua code lengkap dari coding Himti Kit.
+Disini kalian bakal ketemu sebagian besar coding yang bakal kalian temuin (yaa, anggep aja kayak template-template gitu) dan mungkin beberapa contoh pemakaian bahasanya gitu :>
 
-Tips aja, kalau kalian pake Dev-C++ jadi IDE kalian, pake yang .cpp belakangnya jangan .c biar codenya bisa jalan. Mangattt 🔥🔥🔥
+Some tips:
+- Kalo kalian pakai Dev-C++, jangan pake file extension .c, pake file extension .cpp
+- Kalau kalian mau pake Python, install Jupyter di vscode kalian. 
+    Di Binus bakal banyak pakai file .ipynb dibanding .py
 
-Kalau ada yang mau ditanyain bisa reach out ke aku di line: martin_garrix_29905 (LINE ID) :D
+Kalau ada yang mau ditanyain bisa reach out ke penulis di LINE: martin_garrix_29905
+
+Semangat kalian!!!
